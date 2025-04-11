@@ -1,3 +1,3 @@
 # crms_test
 
-add text to read me 
+Text fun woohoo watch me update this to GIT
